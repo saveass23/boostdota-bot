@@ -36,4 +36,4 @@ async def очистить(ctx):
 async def привет(ctx):
     await ctx.send("Привет! Я готов бустить сервер по Dota 2!")
 
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run(os.getenv("TOKEN"))
