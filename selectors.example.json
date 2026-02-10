@@ -1,0 +1,7 @@
+{
+  "title": "input[name='summary']",
+  "description": "textarea[name='desc']",
+  "price": "input[name='price']",
+  "amount": "input[name='amount']",
+  "submit": "button[type='submit']"
+}
